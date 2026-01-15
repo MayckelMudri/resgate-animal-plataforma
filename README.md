@@ -1,19 +1,17 @@
 Plataforma de Intermediação de Resgate Animal 
 
-Projeto social de código aberto voltado à intermediação de resgates de animais
-em situação de vulnerabilidade urbana, conectando condomínios, ONGs de proteção
-animal e, futuramente, órgãos públicos.
+Este projeto propõe a criação de uma plataforma web social voltada ao resgate de animais perdidos ou abandonados dentro de condomínios, conectando de forma rápida e organizada administradoras de condomínios, ONGs de proteção animal e, futuramente, órgãos públicos.
+
+A iniciativa nasce de um problema real e recorrente: animais que entram em condomínios, muitas vezes machucados, famintos ou em risco, sem que exista um fluxo eficiente de comunicação para o resgate adequado.
 
 ---
 
 Contexto do Problema
 
-Em condomínios residenciais e áreas urbanas, é comum a entrada de animais
-abandonados ou perdidos. Atualmente, não existe um canal centralizado,
-estruturado e rastreável que permita que administradoras, síndicos e ONGs
-se comuniquem de forma eficiente para viabilizar o resgate desses animais.
+Em condomínios residenciais e áreas urbanas, é comum a entrada de animais abandonados ou perdidos. Atualmente, não existe um canal centralizado, estruturado e rastreável que permita que administradoras, síndicos e ONGs se comuniquem de forma eficiente para viabilizar o resgate desses animais.
 
 Essa ausência de organização gera:
+
 - Atraso no atendimento
 - Falta de comunicação entre as partes
 - Sobrecarga das ONGs
@@ -35,22 +33,78 @@ A plataforma **não executa o resgate**, mas **intermedia e organiza** o process
 
 ---
 
-Objetivos do Projeto
+Objetivo Principal
 
-- Reduzir o tempo de resposta para resgates
-- Centralizar a comunicação entre condomínios e ONGs
-- Criar histórico e rastreabilidade das ocorrências
-- Apoiar ONGs com organização e visibilidade
-- Gerar dados para futuras parcerias com o poder público
+ Criar um sistema centralizado que permita:
+
+- Registrar ocorrências de animais encontrados em condomínios
+- Notificar automaticamente ONGs parceiras
+- Acompanhar o status do resgate
+- Gerar dados e relatórios que apoiem políticas públicas de proteção animal
 
 ---
 
-Público-Alvo
+Impacto Social
+ - Para os Animais - 
 
-- Administradoras de condomínios
-- Síndicos
-- ONGs de proteção animal
-- Órgãos públicos municipais e estaduais
+- Redução do tempo de exposição ao risco
+- Resgates mais rápidos e organizados
+- Maior chance de recuperação e adoção
+
+ - Para Condomínios - 
+
+- Canal oficial e padronizado para registrar ocorrências
+- Redução de conflitos internos
+- Cumprimento de responsabilidade social
+
+ - Para ONGs - 
+
+- Centralização das solicitações de resgate
+- Priorização baseada em gravidade
+- Histórico de atendimentos
+
+ - Para o Poder Público - 
+
+- Dados estatísticos reais sobre abandono animal
+- Apoio à criação de políticas públicas
+- Possibilidade de integração com programas municipais e estaduais
+
+---
+
+ - Problema que o Projeto Resolve - 
+
+Atualmente, a comunicação entre condomínios e ONGs ocorre de forma:
+
+- Descentralizada (WhatsApp, ligações, redes sociais)
+- Sem padronização de informações
+- Sem histórico confiável
+- Isso gera atrasos, falhas de comunicação e, em muitos casos, a não realização do resgate.
+
+---
+
+ - Solução Proposta - 
+
+Uma plataforma web responsiva, acessível via navegador, que permita:
+
+ - Perfis de Usuário - 
+
+- Administrador de Condomínio
+- ONG / Protetor Independente
+- Administrador do Sistema
+
+ - Funcionalidades Iniciais - 
+
+- Cadastro de ocorrências (animal, local, fotos, observações)
+- Geolocalização do resgate
+- Status do atendimento (aberto, em andamento, finalizado)
+- Histórico de ocorrências
+
+ - Funcionalidades Futuras - 
+
+- Integração com órgãos públicos
+- Relatórios estatísticos
+- Painel de dados (dashboard)
+- API pública para integração
 
 ---
 
@@ -89,6 +143,50 @@ Tecnologias Planejadas
 
 ---
 
+ - Governança e Transparência - 
+
+- Código aberto (Open Source)
+- Histórico público de alterações
+- Documentação acessível
+- Foco em impacto social, não comercial
+
+---
+
+ - Status do Projeto - 
+
+   Fase atual: Planejamento, documentação e UX
+
+Próximas etapas:
+
+- Desenho das telas
+- Definição técnica detalhada
+- MVP funcional
+
+---
+
+Visão de Crescimento
+
+ Este projeto foi pensado para escalar e se tornar:
+
+- Uma referência nacional em resgate animal
+- Um apoio tecnológico para ONGs
+- Um instrumento de dados para governos
+
+---
+Autor
+
+Mayckel Mudri
+
+Projeto desenvolvido como iniciativa social e portfólio técnico.
+
+---
+Contato
+
+Sugestões, parcerias e apoio institucional são bem-vindos.
+
+“Tecnologia a serviço da vida.”
+
+---
 Estrutura do Projeto
 
 ```text

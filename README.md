@@ -6,7 +6,7 @@ A iniciativa nasce de um problema real e recorrente: animais que entram em condo
 
 ---
 
-Contexto do Problema
+           Contexto do Problema
 
 Em condomínios residenciais e áreas urbanas, é comum a entrada de animais abandonados ou perdidos. Atualmente, não existe um canal centralizado, estruturado e rastreável que permita que administradoras, síndicos e ONGs se comuniquem de forma eficiente para viabilizar o resgate desses animais.
 
@@ -19,7 +19,7 @@ Essa ausência de organização gera:
 
 ---
 
-A Solução Proposta
+           A Solução Proposta
 
 A Plataforma de Intermediação de Resgate Animal atua como um ponto central de
 registro e acompanhamento de ocorrências, permitindo que:
@@ -33,7 +33,7 @@ A plataforma **não executa o resgate**, mas **intermedia e organiza** o process
 
 ---
 
-Objetivo Principal
+           Objetivo Principal
 
  Criar um sistema centralizado que permita:
 
@@ -45,25 +45,26 @@ Objetivo Principal
 ---
 
 Impacto Social
-  Para os Animais  
+  
+           Para os Animais  
 
 - Redução do tempo de exposição ao risco
 - Resgates mais rápidos e organizados
 - Maior chance de recuperação e adoção
 
-  Para Condomínios 
+           Para Condomínios 
 
 - Canal oficial e padronizado para registrar ocorrências
 - Redução de conflitos internos
 - Cumprimento de responsabilidade social
 
-  Para ONGs 
+           Para ONGs 
 
 - Centralização das solicitações de resgate
 - Priorização baseada em gravidade
 - Histórico de atendimentos
 
-  Para o Poder Público  
+           Para o Poder Público  
 
 - Dados estatísticos reais sobre abandono animal
 - Apoio à criação de políticas públicas
@@ -82,7 +83,7 @@ Atualmente, a comunicação entre condomínios e ONGs ocorre de forma:
 
 ---
 
-  Solução Proposta 
+            Solução Proposta 
 
 Uma plataforma web responsiva, acessível via navegador, que permita:
 
@@ -92,14 +93,14 @@ Uma plataforma web responsiva, acessível via navegador, que permita:
 - ONG / Protetor Independente
 - Administrador do Sistema
 
-  Funcionalidades Iniciais  
+            Funcionalidades Iniciais  
 
 - Cadastro de ocorrências (animal, local, fotos, observações)
 - Geolocalização do resgate
 - Status do atendimento (aberto, em andamento, finalizado)
 - Histórico de ocorrências
 
-  Funcionalidades Futuras  
+            Funcionalidades Futuras  
 
 - Integração com órgãos públicos
 - Relatórios estatísticos
@@ -108,7 +109,7 @@ Uma plataforma web responsiva, acessível via navegador, que permita:
 
 ---
 
-Funcionalidades (MVP)
+            Funcionalidades (MVP)
 
 - Autenticação de usuários por perfil
 - Cadastro de ocorrências de resgate
@@ -122,7 +123,7 @@ Funcionalidades (MVP)
 
 ---
 
-Impacto Social Esperado
+            Impacto Social Esperado
 
 - Aumento do número de resgates realizados
 - Diminuição de ocorrências não atendidas
@@ -132,7 +133,7 @@ Impacto Social Esperado
 
 ---
 
-Tecnologias Planejadas
+            Tecnologias Planejadas
 
 - **Backend:** Python + Django
 - **Frontend:** HTML, CSS, Bootstrap
@@ -143,7 +144,7 @@ Tecnologias Planejadas
 
 ---
 
-  Governança e Transparência 
+            Governança e Transparência 
 
 - Código aberto (Open Source)
 - Histórico público de alterações

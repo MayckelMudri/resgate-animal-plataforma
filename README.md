@@ -4,8 +4,6 @@ Este projeto propõe a criação de uma plataforma web social voltada ao resgate
 
 A iniciativa nasce de um problema real e recorrente: animais que entram em condomínios, muitas vezes machucados, famintos ou em risco, sem que exista um fluxo eficiente de comunicação para o resgate adequado.
 
----
-
 ##  Contexto do Problema
 
 Em condomínios residenciais e áreas urbanas, é comum a entrada de animais abandonados ou perdidos. Atualmente, não existe um canal centralizado, estruturado e rastreável que permita que administradoras, síndicos e ONGs se comuniquem de forma eficiente para viabilizar o resgate desses animais.
@@ -16,8 +14,6 @@ Em condomínios residenciais e áreas urbanas, é comum a entrada de animais aba
 - Falta de comunicação entre as partes
 - Sobrecarga das ONGs
 - Ocorrências sem solução
-
----
 
 ##  A Solução Proposta
 
@@ -30,8 +26,6 @@ Em condomínios residenciais e áreas urbanas, é comum a entrada de animais aba
 
 A plataforma **não executa o resgate**, mas **intermedia e organiza** o processo.
 
----
-
 ## Objetivo Principal
 
 ### Criar um sistema centralizado que permita:
@@ -40,8 +34,6 @@ A plataforma **não executa o resgate**, mas **intermedia e organiza** o process
 - Notificar automaticamente ONGs parceiras
 - Acompanhar o status do resgate
 - Gerar dados e relatórios que apoiem políticas públicas de proteção animal
-
----
 
 ##  Impacto Social
   
@@ -69,8 +61,6 @@ A plataforma **não executa o resgate**, mas **intermedia e organiza** o process
 - Apoio à criação de políticas públicas
 - Possibilidade de integração com programas municipais e estaduais
 
----
-
 ## Problema que o Projeto Resolve  
 
 ### Atualmente, a comunicação entre condomínios e ONGs ocorre de forma:
@@ -79,8 +69,6 @@ A plataforma **não executa o resgate**, mas **intermedia e organiza** o process
 - Sem padronização de informações
 - Sem histórico confiável
 - Isso gera atrasos, falhas de comunicação e, em muitos casos, a não realização do resgate.
-
----
 
 ## Solução Proposta 
 
@@ -106,8 +94,6 @@ Uma plataforma web responsiva, acessível via navegador, que permita:
 - Painel de dados (dashboard)
 - API pública para integração
 
----
-
 ### Funcionalidades (MVP)
 
 - Autenticação de usuários por perfil
@@ -120,8 +106,6 @@ Uma plataforma web responsiva, acessível via navegador, que permita:
 - Histórico de ocorrências
 - Painel administrativo
 
----
-
 ### Impacto Social Esperado
 
 - Aumento do número de resgates realizados
@@ -129,8 +113,6 @@ Uma plataforma web responsiva, acessível via navegador, que permita:
 - Organização do trabalho das ONGs
 - Base de dados para políticas públicas
 - Transparência e rastreabilidade dos resgates
-
----
 
 ### Tecnologias Planejadas
 
@@ -141,16 +123,12 @@ Uma plataforma web responsiva, acessível via navegador, que permita:
 - **Infraestrutura:** Docker (futuro)
 - **Deploy:** A definir (Railway / Render)
 
----
-
 ### Governança e Transparência 
 
 - Código aberto (Open Source)
 - Histórico público de alterações
 - Documentação acessível
 - Foco em impacto social, não comercial
-
----
 
 ## Status do Projeto  
 
@@ -162,8 +140,6 @@ Uma plataforma web responsiva, acessível via navegador, que permita:
 - Definição técnica detalhada
 - MVP funcional
 
----
-
 ## Visão de Crescimento
 
  Este projeto foi pensado para escalar e se tornar:
@@ -172,21 +148,18 @@ Uma plataforma web responsiva, acessível via navegador, que permita:
 - Um apoio tecnológico para ONGs
 - Um instrumento de dados para governos
 
----
 ## Autor
 
 Mayckel Mudri
 
 Projeto desenvolvido como iniciativa social e portfólio técnico.
 
----
 ## Contato
 
 Sugestões, parcerias e apoio institucional são bem-vindos.
 
 “Tecnologia a serviço da vida.”
 
----
 ## Estrutura do Projeto
 
 ```text

@@ -1,5 +1,6 @@
-Impacto Social do Projeto
-  Introdução
+# Impacto Social do Projeto
+  
+## Introdução
 
 O projeto Plataforma de Resgate Animal em Condomínios nasce a partir de uma necessidade real observada no cotidiano de milhares de condomínios brasileiros: a entrada recorrente de animais perdidos ou abandonados, sem um fluxo eficiente, rápido e responsável para o resgate.
 
@@ -7,7 +8,7 @@ Este documento descreve o impacto social direto e indireto da plataforma, bem co
 
 ---
 
-  Problema Social Identificado
+## Problema Social Identificado
 
 O abandono animal é um problema estrutural no Brasil, agravado por:
 
@@ -21,7 +22,7 @@ O abandono animal é um problema estrutural no Brasil, agravado por:
 
 ---
 
-  Como a Plataforma Atua Socialmente
+## Como a Plataforma Atua Socialmente
 
 A plataforma atua como um elo tecnológico e social, conectando os principais atores envolvidos no resgate animal.
 
@@ -34,7 +35,7 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
 ---
 
- Impactos Diretos
+## Impactos Diretos
 
   Para os Animais
 
@@ -44,7 +45,7 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
 ---
 
-  Para Condomínios
+## Para Condomínios
 
 - Padronização no registro de ocorrências
 - Redução de conflitos internos
@@ -52,7 +53,7 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
 ---
 
-  Para ONGs e Protetores
+## Para ONGs e Protetores
 
 - Centralização dos pedidos de resgate
 - Melhor priorização dos atendimentos
@@ -60,7 +61,7 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
 ---
 
-  Impactos no Setor Público
+## Impactos no Setor Público
 
 - A plataforma gera dados confiáveis que podem apoiar:
 - Políticas públicas de proteção animal
@@ -69,7 +70,7 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
 ---
 
-  Indicadores Possíveis
+## Indicadores Possíveis
 
 - Quantidade de animais resgatados
 - Regiões com maior índice de abandono
@@ -78,7 +79,7 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
 ---
 
-  Potencial de Parcerias
+## Potencial de Parcerias
 
 O projeto foi pensado para cooperação com:
 
@@ -90,7 +91,7 @@ O projeto foi pensado para cooperação com:
 
 ---
 
-  Alinhamento com Objetivos de Desenvolvimento Sustentável (ODS)
+## Alinhamento com Objetivos de Desenvolvimento Sustentável (ODS)
 
 O projeto contribui diretamente com:
 
@@ -101,7 +102,7 @@ O projeto contribui diretamente com:
 ---
 
 
-  Escalabilidade e Sustentabilidade
+## Escalabilidade e Sustentabilidade
 
 A plataforma foi planejada para crescer de forma:
 
@@ -112,7 +113,7 @@ A plataforma foi planejada para crescer de forma:
 
 ---
 
-  Visão de Longo Prazo
+## Visão de Longo Prazo
 
 Tornar-se uma referência nacional em tecnologia social para proteção animal, auxiliando governos, ONGs e a sociedade civil na construção de soluções mais humanas e eficientes.
 

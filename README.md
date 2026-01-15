@@ -1,4 +1,4 @@
-Plataforma de Intermediação de Resgate Animal 
+#  Plataforma de Intermediação de Resgate Animal 
 
 Este projeto propõe a criação de uma plataforma web social voltada ao resgate de animais perdidos ou abandonados dentro de condomínios, conectando de forma rápida e organizada administradoras de condomínios, ONGs de proteção animal e, futuramente, órgãos públicos.
 
@@ -6,11 +6,11 @@ A iniciativa nasce de um problema real e recorrente: animais que entram em condo
 
 ---
 
-Contexto do Problema
+##  Contexto do Problema
 
 Em condomínios residenciais e áreas urbanas, é comum a entrada de animais abandonados ou perdidos. Atualmente, não existe um canal centralizado, estruturado e rastreável que permita que administradoras, síndicos e ONGs se comuniquem de forma eficiente para viabilizar o resgate desses animais.
 
-Essa ausência de organização gera:
+## Essa ausência de organização gera:
 
 - Atraso no atendimento
 - Falta de comunicação entre as partes
@@ -19,10 +19,9 @@ Essa ausência de organização gera:
 
 ---
 
-A Solução Proposta
+##  A Solução Proposta
 
-A Plataforma de Intermediação de Resgate Animal atua como um ponto central de
-registro e acompanhamento de ocorrências, permitindo que:
+### A Plataforma de Intermediação de Resgate Animal atua como um ponto central de registro e acompanhamento de ocorrências, permitindo que:
 
 - Condomínios registrem ocorrências de animais encontrados
 - ONGs credenciadas visualizem e aceitem resgates
@@ -33,9 +32,9 @@ A plataforma **não executa o resgate**, mas **intermedia e organiza** o process
 
 ---
 
-Objetivo Principal
+## Objetivo Principal
 
- Criar um sistema centralizado que permita:
+### Criar um sistema centralizado que permita:
 
 - Registrar ocorrências de animais encontrados em condomínios
 - Notificar automaticamente ONGs parceiras
@@ -44,27 +43,27 @@ Objetivo Principal
 
 ---
 
-Impacto Social
+##  Impacto Social
   
-Para os Animais  
+### Para os Animais  
 
 - Redução do tempo de exposição ao risco
 - Resgates mais rápidos e organizados
 - Maior chance de recuperação e adoção
 
-Para Condomínios 
+### Para Condomínios 
 
 - Canal oficial e padronizado para registrar ocorrências
 - Redução de conflitos internos
 - Cumprimento de responsabilidade social
 
-Para ONGs 
+### Para ONGs 
 
 - Centralização das solicitações de resgate
 - Priorização baseada em gravidade
 - Histórico de atendimentos
 
-Para o Poder Público  
+### Para o Poder Público  
 
 - Dados estatísticos reais sobre abandono animal
 - Apoio à criação de políticas públicas
@@ -72,9 +71,9 @@ Para o Poder Público
 
 ---
 
-Problema que o Projeto Resolve  
+## Problema que o Projeto Resolve  
 
-Atualmente, a comunicação entre condomínios e ONGs ocorre de forma:
+### Atualmente, a comunicação entre condomínios e ONGs ocorre de forma:
 
 - Descentralizada (WhatsApp, ligações, redes sociais)
 - Sem padronização de informações
@@ -83,24 +82,24 @@ Atualmente, a comunicação entre condomínios e ONGs ocorre de forma:
 
 ---
 
-Solução Proposta 
+## Solução Proposta 
 
 Uma plataforma web responsiva, acessível via navegador, que permita:
 
-Perfis de Usuário 
+### Perfis de Usuário 
 
 - Administrador de Condomínio
 - ONG / Protetor Independente
 - Administrador do Sistema
 
-Funcionalidades Iniciais  
+### Funcionalidades Iniciais  
 
 - Cadastro de ocorrências (animal, local, fotos, observações)
 - Geolocalização do resgate
 - Status do atendimento (aberto, em andamento, finalizado)
 - Histórico de ocorrências
 
-Funcionalidades Futuras  
+### Funcionalidades Futuras  
 
 - Integração com órgãos públicos
 - Relatórios estatísticos
@@ -109,7 +108,7 @@ Funcionalidades Futuras
 
 ---
 
-Funcionalidades (MVP)
+### Funcionalidades (MVP)
 
 - Autenticação de usuários por perfil
 - Cadastro de ocorrências de resgate
@@ -123,7 +122,7 @@ Funcionalidades (MVP)
 
 ---
 
-Impacto Social Esperado
+### Impacto Social Esperado
 
 - Aumento do número de resgates realizados
 - Diminuição de ocorrências não atendidas
@@ -133,7 +132,7 @@ Impacto Social Esperado
 
 ---
 
-Tecnologias Planejadas
+### Tecnologias Planejadas
 
 - **Backend:** Python + Django
 - **Frontend:** HTML, CSS, Bootstrap
@@ -144,7 +143,7 @@ Tecnologias Planejadas
 
 ---
 
-Governança e Transparência 
+### Governança e Transparência 
 
 - Código aberto (Open Source)
 - Histórico público de alterações
@@ -153,11 +152,11 @@ Governança e Transparência
 
 ---
 
-Status do Projeto  
+## Status do Projeto  
 
    Fase atual: Planejamento, documentação e UX
 
-Próximas etapas:
+## Próximas etapas:
 
 - Desenho das telas
 - Definição técnica detalhada
@@ -165,7 +164,7 @@ Próximas etapas:
 
 ---
 
-Visão de Crescimento
+## Visão de Crescimento
 
  Este projeto foi pensado para escalar e se tornar:
 
@@ -174,21 +173,21 @@ Visão de Crescimento
 - Um instrumento de dados para governos
 
 ---
-Autor
+## Autor
 
 Mayckel Mudri
 
 Projeto desenvolvido como iniciativa social e portfólio técnico.
 
 ---
-Contato
+## Contato
 
 Sugestões, parcerias e apoio institucional são bem-vindos.
 
 “Tecnologia a serviço da vida.”
 
 ---
-Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 resgate-animal-plataforma/
@@ -200,3 +199,4 @@ resgate-animal-plataforma/
 │   └── roadmap.md
 ├── backend/
 └── .gitignore
+

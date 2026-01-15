@@ -11,13 +11,13 @@ Este documento descreve o impacto social direto e indireto da plataforma, bem co
 
 O abandono animal é um problema estrutural no Brasil, agravado por:
 
--Falta de políticas públicas integradas
--Comunicação ineficiente entre sociedade civil, ONGs e poder público
--Ausência de dados consolidados sobre ocorrências reais.
--Em condomínios, essa situação gera:
--Risco à vida dos animais
--Conflitos entre moradores
--Sobrecarga de ONGs e protetores independentes.
+- Falta de políticas públicas integradas
+- Comunicação ineficiente entre sociedade civil, ONGs e poder público
+- Ausência de dados consolidados sobre ocorrências reais.
+- Em condomínios, essa situação gera:
+- Risco à vida dos animais
+- Conflitos entre moradores
+- Sobrecarga de ONGs e protetores independentes.
 
 ---
 
@@ -27,10 +27,10 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
   Conexões Criadas
 
--Condomínios → ONGs
--ONGs → Poder Público
--Sociedade Civil → Dados Estatísticos
--Essa integração reduz o tempo de resposta, melhora a organização dos resgates e amplia a transparência.
+- Condomínios → ONGs
+- ONGs → Poder Público
+- Sociedade Civil → Dados Estatísticos
+- Essa integração reduz o tempo de resposta, melhora a organização dos resgates e amplia a transparência.
 
 ---
 
@@ -38,43 +38,43 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
   Para os Animais
 
--Redução do tempo de exposição ao abandono
--Atendimento mais rápido em casos de risco
--Aumento das chances de recuperação e adoção.
+- Redução do tempo de exposição ao abandono
+- Atendimento mais rápido em casos de risco
+- Aumento das chances de recuperação e adoção.
 
 ---
 
   Para Condomínios
 
--Padronização no registro de ocorrências
--Redução de conflitos internos
--Fortalecimento da responsabilidade social.
+- Padronização no registro de ocorrências
+- Redução de conflitos internos
+- Fortalecimento da responsabilidade social.
 
 ---
 
   Para ONGs e Protetores
 
--Centralização dos pedidos de resgate
--Melhor priorização dos atendimentos
--Histórico organizado de ocorrências.
+- Centralização dos pedidos de resgate
+- Melhor priorização dos atendimentos
+- Histórico organizado de ocorrências.
 
 ---
 
   Impactos no Setor Público
 
--A plataforma gera dados confiáveis que podem apoiar:
--Políticas públicas de proteção animal
--Campanhas de castração
--Programas de adoção responsável.
+- A plataforma gera dados confiáveis que podem apoiar:
+- Políticas públicas de proteção animal
+- Campanhas de castração
+- Programas de adoção responsável.
 
 ---
 
   Indicadores Possíveis
 
--Quantidade de animais resgatados
--Regiões com maior índice de abandono
--Tempo médio de resposta ao resgate
--Esses indicadores permitem decisões baseadas em evidências reais.
+- Quantidade de animais resgatados
+- Regiões com maior índice de abandono
+- Tempo médio de resposta ao resgate
+- Esses indicadores permitem decisões baseadas em evidências reais.
 
 ---
 
@@ -82,11 +82,11 @@ A plataforma atua como um elo tecnológico e social, conectando os principais at
 
 O projeto foi pensado para cooperação com:
 
--Prefeituras
--Secretarias de Meio Ambiente e Saúde
--Conselhos de proteção animal
--Universidades e centros de pesquisa
--Essas parcerias ampliam o alcance e a sustentabilidade do projeto.
+- Prefeituras
+- Secretarias de Meio Ambiente e Saúde
+- Conselhos de proteção animal
+- Universidades e centros de pesquisa
+- Essas parcerias ampliam o alcance e a sustentabilidade do projeto.
 
 ---
 
@@ -94,9 +94,9 @@ O projeto foi pensado para cooperação com:
 
 O projeto contribui diretamente com:
 
--ODS 3 Saúde e bem-estar
--ODS 11 Cidades e comunidades sustentáveis
--ODS 15 Vida terrestre.
+- ODS 3 Saúde e bem-estar
+- ODS 11 Cidades e comunidades sustentáveis
+- ODS 15 Vida terrestre.
 
 ---
 
@@ -105,10 +105,10 @@ O projeto contribui diretamente com:
 
 A plataforma foi planejada para crescer de forma:
 
--Gradual
--Transparente
--Sustentável
--Possibilitando expansão regional e nacional sem perder o foco social.
+- Gradual
+- Transparente
+- Sustentável
+- Possibilitando expansão regional e nacional sem perder o foco social.
 
 ---
 

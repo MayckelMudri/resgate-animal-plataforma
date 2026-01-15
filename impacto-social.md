@@ -9,13 +9,13 @@ Este documento descreve o impacto social direto e indireto da plataforma, bem co
 
 O abandono animal é um problema estrutural no Brasil, agravado por:
 
--Falta de políticas públicas integradas
--Comunicação ineficiente entre sociedade civil, ONGs e poder público
--Ausência de dados consolidados sobre ocorrências reais
+-Falta de políticas públicas integradas,
+-Comunicação ineficiente entre sociedade civil, ONGs e poder público,
+-Ausência de dados consolidados sobre ocorrências reais.
 -Em condomínios, essa situação gera:
--Risco à vida dos animais
--Conflitos entre moradores
--Sobrecarga de ONGs e protetores independentes
+-Risco à vida dos animais,
+-Conflitos entre moradores,
+-Sobrecarga de ONGs e protetores independentes.
 
   Como a Plataforma Atua Socialmente
 

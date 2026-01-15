@@ -45,25 +45,25 @@ Objetivo Principal
 ---
 
 Impacto Social
- - Para os Animais - 
+  Para os Animais  
 
 - Redução do tempo de exposição ao risco
 - Resgates mais rápidos e organizados
 - Maior chance de recuperação e adoção
 
- - Para Condomínios - 
+  Para Condomínios 
 
 - Canal oficial e padronizado para registrar ocorrências
 - Redução de conflitos internos
 - Cumprimento de responsabilidade social
 
- - Para ONGs - 
+  Para ONGs 
 
 - Centralização das solicitações de resgate
 - Priorização baseada em gravidade
 - Histórico de atendimentos
 
- - Para o Poder Público - 
+  Para o Poder Público  
 
 - Dados estatísticos reais sobre abandono animal
 - Apoio à criação de políticas públicas
@@ -71,7 +71,7 @@ Impacto Social
 
 ---
 
- - Problema que o Projeto Resolve - 
+  Problema que o Projeto Resolve  
 
 Atualmente, a comunicação entre condomínios e ONGs ocorre de forma:
 
@@ -82,24 +82,24 @@ Atualmente, a comunicação entre condomínios e ONGs ocorre de forma:
 
 ---
 
- - Solução Proposta - 
+  Solução Proposta 
 
 Uma plataforma web responsiva, acessível via navegador, que permita:
 
- - Perfis de Usuário - 
+  Perfis de Usuário 
 
 - Administrador de Condomínio
 - ONG / Protetor Independente
 - Administrador do Sistema
 
- - Funcionalidades Iniciais - 
+  Funcionalidades Iniciais  
 
 - Cadastro de ocorrências (animal, local, fotos, observações)
 - Geolocalização do resgate
 - Status do atendimento (aberto, em andamento, finalizado)
 - Histórico de ocorrências
 
- - Funcionalidades Futuras - 
+  Funcionalidades Futuras  
 
 - Integração com órgãos públicos
 - Relatórios estatísticos
@@ -143,7 +143,7 @@ Tecnologias Planejadas
 
 ---
 
- - Governança e Transparência - 
+  Governança e Transparência 
 
 - Código aberto (Open Source)
 - Histórico público de alterações
@@ -152,7 +152,7 @@ Tecnologias Planejadas
 
 ---
 
- - Status do Projeto - 
+  Status do Projeto  
 
    Fase atual: Planejamento, documentação e UX
 
